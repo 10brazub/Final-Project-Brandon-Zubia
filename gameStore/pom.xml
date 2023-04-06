@@ -87,7 +87,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
            
-           // Skipping due to env being dev and not prod anymore
+           <!-- Skipping due to env being dev and not prod anymore -->
            <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-surefire-plugin</artifactId>
